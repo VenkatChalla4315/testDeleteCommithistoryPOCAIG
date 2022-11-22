@@ -1,0 +1,11 @@
+claims-icorr-aem-authorauditdsc-2455
+claims-icorr-aem-renderwrapperdsc-2455
+claims-icorr-aem-smsservicedsc-2455
+claims-icorr-bpm-ecso-2455
+claims-icorr-bpm-fni-2455
+claims-icorr-bpm-mlr-2455
+claims-icorr-bpm-mlr-doczip-2455
+claims-icorr-bpm-oneclaim-2455
+claims-icorr-bpm-oneclaim-mosaic-2455
+claims-icorr-claimdetailsservice-2455
+claims-icorr-icorrcustomletter-2455
